@@ -30,4 +30,4 @@ public class BaseTimeEntity {
 //1. Entity가 생성되어 저장될 때 시간이 자동 저장
 
 //@LastModifiedDate
-//1. 조회한 Entity의 값을 변경할 때 시간이 자동 저장장
+//1. 조회한 Entity의 값을 변경할 때 시간이 자동 저장
