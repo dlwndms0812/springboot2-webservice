@@ -1,6 +1,5 @@
 package com.jueun.springboot.web.dto;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
 import com.jueun.springboot.domain.posts.Posts;
 import lombok.Getter;
 import java.time.LocalDateTime;

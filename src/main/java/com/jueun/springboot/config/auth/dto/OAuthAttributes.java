@@ -4,7 +4,7 @@ import com.jueun.springboot.domain.user.Role;
 import com.jueun.springboot.domain.user.User;
 import lombok.Builder;
 import lombok.Getter;
-import org.springframework.security.oauth2.core.user.OAuth2User;
+
 
 import java.util.Map;
 
